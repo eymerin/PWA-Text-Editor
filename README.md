@@ -16,7 +16,7 @@
   --------------
   This is a progressive text editor web application.
 
-  ![Application Image]([image\Demo-Image.png](https://github.com/eymerin/PWA-Text-Editor/blob/main/image/Demo-Image.png))
+  ![Application Image]((https://github.com/eymerin/PWA-Text-Editor/blob/main/image/Demo-Image.png))
 
   ## Installation
   ---------------
